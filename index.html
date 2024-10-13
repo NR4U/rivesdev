@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مستودع الجيلبريك الاحترافي</title>
+    <title>مستودع الجيلبريك</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="background"></div>
     <header>
         <div class="container">
-            <h1>مرحبًا بكم في مستودع الجيلبريك الاحترافي</h1>
+            <h1>مستودع الجيلبريك</h1>
             <p>استمتع بأفضل الحزم لجهازك.</p>
         </div>
     </header>
@@ -25,36 +24,37 @@
         </div>
     </nav>
 
-    <aside class="sidebar">
-        <h2>تواصل معنا</h2>
-        <ul>
-            <li><a href="https://t.me/yourusername" target="_blank">تيليجرام</a></li>
-            <li><a href="https://twitter.com/yourusername" target="_blank">تويتر</a></li>
-        </ul>
-    </aside>
-
-    <section id="about" class="card">
-        <div class="container">
+    <main>
+        <section id="about" class="card">
             <h2>عن المستودع</h2>
             <p>نقدم لك مجموعة مختارة من أفضل الحزم لجهازك الذي يعمل بنظام iOS. تم اختبار كل حزمة لضمان الأداء المثالي.</p>
-        </div>
-    </section>
+        </section>
 
-    <section id="add-source" class="card">
-        <div class="container">
+        <section id="add-source" class="card">
             <h2>إضافة السورس</h2>
             <p>أضف السورس الخاص بنا باستخدام الأزرار أدناه:</p>
-            <a href="sileo://add-source?url=https://raw.githubusercontent.com/nr4u/rivesdev/main/" target="_blank">
-                <button>إضافة إلى Sileo</button>
-            </a>
-            <a href="zebra://add-source?url=https://raw.githubusercontent.com/nr4u/rivesdev/main/" target="_blank">
-                <button>إضافة إلى Zebra</button>
-            </a>
-            <a href="cydia://add-source?url=https://raw.githubusercontent.com/nr4u/rivesdev/main/" target="_blank">
-                <button>إضافة إلى Cydia</button>
-            </a>
-        </div>
-    </section>
+            <div class="buttons">
+                <a href="sileo://add-source?url=https://raw.githubusercontent.com/nr4u/rivesdev/main/" target="_blank">
+                    <button>إضافة إلى Sileo</button>
+                </a>
+                <a href="zebra://add-source?url=https://raw.githubusercontent.com/nr4u/rivesdev/main/" target="_blank">
+                    <button>إضافة إلى Zebra</button>
+                </a>
+                <a href="cydia://add-source?url=https://raw.githubusercontent.com/nr4u/rivesdev/main/" target="_blank">
+                    <button>إضافة إلى Cydia</button>
+                </a>
+            </div>
+        </section>
+
+        <section id="contact" class="card">
+            <h2>تواصل معنا</h2>
+            <p>إذا كان لديك أي استفسارات، يمكنك التواصل معنا عبر الروابط أدناه:</p>
+            <ul>
+                <li><a href="https://t.me/yourusername" target="_blank">تيليجرام</a></li>
+                <li><a href="https://twitter.com/yourusername" target="_blank">تويتر</a></li>
+            </ul>
+        </section>
+    </main>
 
     <footer>
         <div class="container">
