@@ -1,0 +1,16 @@
+Package: com.bandarhl.bhinsta
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: BandarHelal
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64.deb
+Size: 162788
+MD5sum: af010de66b571b34c7f731cb6cb454d6
+SHA1: c8524e132e6d3a23f232bc638b405a580643108b
+SHA256: a8e0b68b4772267f9a8953ed258017737d882c9a1dad06b57d495c27c76d4d5b
+Section: Tweaks
+Description: bhinsta
+Author: BandarHelal - Nasser
+Name: BHinsta
+
+
