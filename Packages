@@ -3,7 +3,7 @@ Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: BandarHelal
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debian_file/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64.deb
+Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64.deb
 Size: 162788
 MD5sum: af010de66b571b34c7f731cb6cb454d6
 SHA1: c8524e132e6d3a23f232bc638b405a580643108b
