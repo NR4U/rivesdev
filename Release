@@ -3,6 +3,6 @@ Label: Rives Dev
 Suite: stable
 Version: 1.0
 Codename: Rives Dev
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Rives Dev
