@@ -53,7 +53,7 @@ SHA256: e8e18fbb54104040dd64d7db8fbdcd90c1e9673c4ba14429da2a976bf56a272b
 Section: تعريب ادوات
 Description: Rootless
 Author: Rives - X:_juz4
-Name: تعريب A-Font
+Name: تعريب classicFolders3
 
 Package: com.rivesDev.eneko.rootless
 Version: 1.4.2
@@ -78,8 +78,8 @@ SHA1: 8554cd450fe31deb316e5e339079ac6f849b0b2b
 SHA256: 8c6a664ca47358d2cf8bca3c2845f7819235bd5b724599835aa913b68c97ad09
 Section: تعريب ادوات
 Maintainer: Rives - Tel:@jz_u4
-Architecture: iphoneos-arm64
-Name: تعريب Eneko
+Architecture: iphoneos-arm
+Name: تعريب eneko
 Author: Rives - X:_juz4
 Description: RootFull
 
@@ -93,6 +93,6 @@ SHA256: 1c9ea5565f79de1bd826417bf46dedf5810de4ac2e2af2a71aeddb1d4bf05870
 Section: تعريب ادوات
 Maintainer: Rives - Tel:@jz_u4
 Architecture: iphoneos-arm64
-Name: تعريب Eneko
+Name: تعريب Choicy
 Author: Rives - X:_juz4
-Description: RootFull
+Description: RootLess
