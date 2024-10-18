@@ -13,17 +13,86 @@ Description: bhinsta
 Author: BandarHelal - Nasser
 Name: BHinsta
 
-Package: com.rivesDev.A-Font
+Package: com.rivesDev.A-Font.rootless
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: Rives - Tel:Jz_u4
 Filename: ./debian_file/com.rivesDev.A-font_2.0_iphoneos-arm64.deb
-Size: 2296
-MD5sum: a1fee5df472449a83889ef2d9b9ecaf0
-SHA1: 10b6f02d0d2941c03a7e0d11fb767740e5fa6c07
-SHA256: f70febd5526f5c479099620ce098a73120a75f3ca364b919b368bfa63c18fa4b
+Size: 2312
+MD5sum: 333b2c8499d74c3f816719edc5011ef7
+SHA1: 2992aee2a7abbd62382d4644f627afa2d2615114
+SHA256: ad81f40a314e0392954054831145cc69837f21913a3113e41f4bba2faeeaaf27
 Section: تعريب ادوات
 Description: Rootless
 Author: Rives - X:_juz4
 Name: تعريب A-Font 
 
+Package: com.rivesDev.A-Font
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Rives - Tel:Jz_u4
+Filename: ./debian_file/com.rivesDev.A-font_2.0_iphoneos-arm.deb
+Size: 2296
+MD5sum: a1fee5df472449a83889ef2d9b9ecaf0
+SHA1: 10b6f02d0d2941c03a7e0d11fb767740e5fa6c07
+SHA256: f70febd5526f5c479099620ce098a73120a75f3ca364b919b368bfa63c18fa4b
+Section: تعريب ادوات
+Description: RootFull
+Author: Rives - X:_juz4
+Name: تعريب A-Font
+
+Package: com.rivesDev.classicFolders3.rootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Rives - Tel:Jz_u4
+Filename: ./debian_file/com.rivesDev.classicFolders3.rootless_1.0_iphoneos-arm64.deb
+Size: 1504
+MD5sum: d0e7160ef0672bd10452db94d2fec339
+SHA1: 71067fedec68b559901febd6229f6469e5fa59b9
+SHA256: e8e18fbb54104040dd64d7db8fbdcd90c1e9673c4ba14429da2a976bf56a272b
+Section: تعريب ادوات
+Description: Rootless
+Author: Rives - X:_juz4
+Name: تعريب A-Font
+
+Package: com.rivesDev.eneko.rootless
+Version: 1.4.2
+Filename: ./debian_file/com.rivesDev.eneko_1.4.2_iphoneos-arm64.deb
+Size: 2488
+MD5sum: 5dde927129ad0c83bd4d704553bb62c5
+SHA1: aafa29a3ddae21621ed7a98b5d9dc3ac87e4e34f
+SHA256: d6622ef4e279677ce2885bcb10e6d8faa19eee90b7157d6918c6d5ebe914aa58
+Section: تعريب ادوات
+Maintainer: Rives - Tel:@jz_u4
+Architecture: iphoneos-arm64
+Name: تعريب Eneko
+Author: Rives - X:_juz4
+Description: Only Rootless
+
+Package: com.rivesDev.eneko
+Version: 1.4.2
+Filename: ./debian_file/ccom.rivesDev.eneko_1.4.2_iphoneos-arm.deb
+Size: 2468
+MD5sum: cdcc270dc20bea1c707d6b64f3eba7e6
+SHA1: 8554cd450fe31deb316e5e339079ac6f849b0b2b
+SHA256: 8c6a664ca47358d2cf8bca3c2845f7819235bd5b724599835aa913b68c97ad09
+Section: تعريب ادوات
+Maintainer: Rives - Tel:@jz_u4
+Architecture: iphoneos-arm64
+Name: تعريب Eneko
+Author: Rives - X:_juz4
+Description: RootFull
+
+Package: com.Rives.Choicy.rootless
+Version: 1.4.10-3
+Filename: ./debian_file/com.Rives.Choicy.rootless.deb
+Size: 2488
+MD5sum: ad707160f070e8e37c356af46e410106
+SHA1: 348131d85258f24f78f1673157e42945c1b019e8
+SHA256: 1c9ea5565f79de1bd826417bf46dedf5810de4ac2e2af2a71aeddb1d4bf05870
+Section: تعريب ادوات
+Maintainer: Rives - Tel:@jz_u4
+Architecture: iphoneos-arm64
+Name: تعريب Eneko
+Author: Rives - X:_juz4
+Description: RootFull
