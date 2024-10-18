@@ -13,4 +13,17 @@ Description: bhinsta
 Author: BandarHelal - Nasser
 Name: BHinsta
 
+Package: com.rivesDev.A-Font
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Rives - Tel:Jz_u4
+Filename: ./debs/com.rivesDev.A-font_2.0_iphoneos-arm.deb
+Size: 2296
+MD5sum: a1fee5df472449a83889ef2d9b9ecaf0
+SHA1: 10b6f02d0d2941c03a7e0d11fb767740e5fa6c07
+SHA256: f70febd5526f5c479099620ce098a73120a75f3ca364b919b368bfa63c18fa4b
+Section: Tweaks
+Description: bhinsta
+Author: Rives - X:_juz4
+Name: تعريب A-Font 
 
