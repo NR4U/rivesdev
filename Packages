@@ -3,7 +3,7 @@ Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: BandarHelal
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64.deb
+Filename: ./debian_file/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64.deb
 Size: 162788
 MD5sum: af010de66b571b34c7f731cb6cb454d6
 SHA1: c8524e132e6d3a23f232bc638b405a580643108b
@@ -17,13 +17,13 @@ Package: com.rivesDev.A-Font
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: Rives - Tel:Jz_u4
-Filename: ./debs/com.rivesDev.A-font_2.0_iphoneos-arm64.deb
+Filename: ./debian_file/com.rivesDev.A-font_2.0_iphoneos-arm64.deb
 Size: 2296
 MD5sum: a1fee5df472449a83889ef2d9b9ecaf0
 SHA1: 10b6f02d0d2941c03a7e0d11fb767740e5fa6c07
 SHA256: f70febd5526f5c479099620ce098a73120a75f3ca364b919b368bfa63c18fa4b
-Section: Tweaks
-Description: bhinsta
+Section: تعريب ادوات
+Description: Rootless
 Author: Rives - X:_juz4
 Name: تعريب A-Font 
 
