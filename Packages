@@ -47,9 +47,9 @@ Architecture: iphoneos-arm64
 Maintainer: Rives - Tel:Jz_u4
 Filename: ./debian_file/com.rivesDev.classicFolders3.rootless_1.0_iphoneos-arm64.deb
 Size: 1504
-MD5sum: d0e7160ef0672bd10452db94d2fec339
-SHA1: 71067fedec68b559901febd6229f6469e5fa59b9
-SHA256: e8e18fbb54104040dd64d7db8fbdcd90c1e9673c4ba14429da2a976bf56a272b
+MD5sum: 24de9ec783449868adefe32e67249de5
+SHA1: 21d0a0f5460dac790ebcdbe76b3568c5bd10296b
+SHA256: 6b993add3520ca72f227812ead9e985719b5c612b22af94d420319cda7039d49
 Section: تعريب ادوات
 Description: Rootless
 Author: Rives - X:_juz4
