@@ -71,7 +71,7 @@ Description: Only Rootless
 
 Package: com.rivesDev.eneko
 Version: 1.4.2
-Filename: ./debian_file/ccom.rivesDev.eneko_1.4.2_iphoneos-arm.deb
+Filename: ./debian_file/com.rivesDev.eneko_1.4.2_iphoneos-arm.deb
 Size: 2468
 MD5sum: cdcc270dc20bea1c707d6b64f3eba7e6
 SHA1: 8554cd450fe31deb316e5e339079ac6f849b0b2b
@@ -84,7 +84,7 @@ Author: Rives - X:_juz4
 Description: RootFull
 
 Package: com.Rives.Choicy.rootless
-Version: 1.4.10-3
+Version: 1.4.1p
 Filename: ./debian_file/com.Rives.Choicy.rootless.deb
 Size: 2488
 MD5sum: ad707160f070e8e37c356af46e410106
