@@ -17,11 +17,11 @@ Package: com.rivesDev.A-Font.rootless
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: Rives - Tel:Jz_u4
-Filename: ./debian_file/com.rivesDev.A-font_2.0_iphoneos-arm64.deb
+Filename: ./debian_file/A-FontRootLess.deb
 Size: 2312
-MD5sum: 333b2c8499d74c3f816719edc5011ef7
-SHA1: 2992aee2a7abbd62382d4644f627afa2d2615114
-SHA256: ad81f40a314e0392954054831145cc69837f21913a3113e41f4bba2faeeaaf27
+MD5sum: 258faa012623b558068933474357cacc
+SHA1: 7ebeb53038c80a8eed2013ffd6e310826f89f1ed
+SHA256: ffe5792548e540db2729da0e594f694fc9b01ee06dda97971864a3b28f71f922
 Section: تعريب ادوات
 Description: Rootless
 Author: Rives - X:_juz4
@@ -31,7 +31,7 @@ Package: com.rivesDev.A-Font
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Rives - Tel:Jz_u4
-Filename: ./debian_file/com.rivesDev.A-font_2.0_iphoneos-arm.deb
+Filename: ./debian_file/A-FontRootFull.deb
 Size: 2296
 MD5sum: a1fee5df472449a83889ef2d9b9ecaf0
 SHA1: 10b6f02d0d2941c03a7e0d11fb767740e5fa6c07
