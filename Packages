@@ -124,3 +124,33 @@ Architecture: iphoneos-arm
 Name: تعريب coolCC
 Author: Rives - X:_juz4
 Description: RootFull
+
+Package: com.dvntm.cc18.rootless
+Name: CC18
+Description: تحويل ثيم مركز التحكم الى نظام ios18
+Maintainer: dvntm
+Filename: ./debian_file/com.dvntm.cc18.rootless_0.0.1_iphoneos-arm64.deb
+Size: 4452
+MD5sum: db2245fe33878bca62225aa04898988c
+SHA1: 473e867f5e59f3d1bab849a1938a9c6224f67a19
+SHA256: ae7d7d3c3bd6e59ac5e33e34490ccb8588a32ea3bc9a27d4e7ac0ec7b802ef8a
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Architecture: iphoneos-arm64
+Version: 0.0.1
+
+Package: com.dvntm.cc18
+Name: CC18
+Description: تحويل ثيم مركز التحكم الى نظام ios18
+Maintainer: dvntm
+Filename: ./debian_file/com.dvntm.cc18_0.0.1_iphoneos-arm.deb
+Size: 4392
+MD5sum: 8464220f496e006b22994ac6543c9979
+SHA1: 225cdf7ac065328fc85a51e655ef41bd3411545d
+SHA256: 697fd589f74d8b55b87fd5f21ab220512dbb15221eacd2ba2ccede254fd4a00a
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Architecture: iphoneos-arm
+Version: 0.0.1
