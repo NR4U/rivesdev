@@ -131,9 +131,9 @@ Description: تحويل ثيم مركز التحكم الى نظام ios18
 Maintainer: dvntm
 Filename: ./debian_file/com.dvntm.cc18.rootless_0.0.1_iphoneos-arm64.deb
 Size: 4464
-MD5sum: db2245fe33878bca62225aa04898988c
-SHA1: 473e867f5e59f3d1bab849a1938a9c6224f67a19
-SHA256: ae7d7d3c3bd6e59ac5e33e34490ccb8588a32ea3bc9a27d4e7ac0ec7b802ef8a
+MD5sum: b9afd78bdbf064fec2921dff49c4ac47
+SHA1: 6d3e96c78a8beb7a02136858ac19da0d7f591385
+SHA256: 59857e456565077589d80a57db4f9081925824296db12c92c73dd5ce0affd223
 Author: dvntm
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
