@@ -96,3 +96,31 @@ Architecture: iphoneos-arm64
 Name: تعريب Choicy
 Author: Rives - X:_juz4
 Description: RootLess
+
+Package: com.Rives.coolCC.rootless
+Version: 2.0.1
+Filename: ./debian_file/com.rivesDev.coolCC.rootless_1.0_iphoneos-arm64.deb
+Size: 1392
+MD5sum: f80e008f8ed7d9da344bfaf4fe1ac779
+SHA1: 54ab76e210c43862a23c6828cb3e6b0bedfcde9a
+SHA256: 0f334976d28deaf39154515923169cb334c229b91ded7caa3fd45749ee5f5620
+Section: تعريب ادوات
+Maintainer: Rives - Tel:@jz_u4
+Architecture: iphoneos-arm64
+Name: تعريب coolCC
+Author: Rives - X:_juz4
+Description: RootLess
+
+Package: com.Rives.coolCC
+Version: 2.0.1
+Filename: ./debian_file/com.rivesDev.coolCC_1.0_iphoneos-arm.deb
+Size: 1344
+MD5sum: 581841f6ee29ace1df69ee2e988cd5e6
+SHA1: e3e42fd57da30b4fc334d31806bf4fe0777e4c61
+SHA256: 15b569367e6ad98ce51ac9b16a8a8ec24b57d8e56d0024d4d1217b5438c9768b
+Section: تعريب ادوات
+Maintainer: Rives - Tel:@jz_u4
+Architecture: iphoneos-arm
+Name: تعريب coolCC
+Author: Rives - X:_juz4
+Description: RootFull
