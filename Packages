@@ -130,7 +130,7 @@ Name: CC18
 Description: تحويل ثيم مركز التحكم الى نظام ios18
 Maintainer: dvntm
 Filename: ./debian_file/com.dvntm.cc18.rootless_0.0.1_iphoneos-arm64.deb
-Size: 4452
+Size: 4464
 MD5sum: db2245fe33878bca62225aa04898988c
 SHA1: 473e867f5e59f3d1bab849a1938a9c6224f67a19
 SHA256: ae7d7d3c3bd6e59ac5e33e34490ccb8588a32ea3bc9a27d4e7ac0ec7b802ef8a
