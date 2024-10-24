@@ -154,3 +154,27 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Version: 0.0.1
+
+Package: com.rivesdev.griddy.rootless
+Section: Tweaks
+Maintainer: Rives - Tel:Jz_u4
+Architecture: iphoneos-arm64
+Version: 1.0
+Description: 
+Author: Rives - X:_juz4
+Name: Griddy Crack
+
+Package: com.rivesdev.griddy.rootless
+Name: Griddy Crack
+Description: في حال واجهت مشاكل بعكس الاماكن حول اللغة للانجليزية
+Maintainer: Rives - Tel:jz_u4
+Filename: ./debian_file/com.rivesdev.griddy.rootless_1.0_iphoneos-arm64.deb
+Size: 16248
+MD5sum: 92f83a85833cb9cd6a6324f1e5674a03
+SHA1: 8b8bb4c5deb1ccd42fe5e74ef3532fb6bf6aeb76
+SHA256: 24d234ed1c2df2d52aefb34fbe63cf3cf9871818aa71a7c1072956284055d7f6
+Author: Rives - X:_juz4
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
