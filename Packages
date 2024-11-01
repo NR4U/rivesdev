@@ -15,7 +15,7 @@ Name: BHinsta
 
 Package: com.bandarhl.bhinsta
 Version: 1.0.3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: BandarHelal
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debian_file/com.bandarhl.bhinsta_1.0.3_iphoneos-arm.deb
