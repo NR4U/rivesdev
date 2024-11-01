@@ -193,7 +193,7 @@ Size: 933728
 MD5sum: 73092f7389bc3b018ad4644ce498578f
 SHA1: a96533711dfa60ba71c7166b8aaf78d6a1ebfbb7
 SHA256: 7173e3f884bbb870a6a9712a7b52512fcbb778ec45396a2d9a567d4f2594cf8d
-Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
+Depends: mobilesubstrate (>= 0.9.5000)
 Description: اداة Snapper 3 مكركه
 Author: Jonathan
 Section: Tweaks
