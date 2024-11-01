@@ -13,6 +13,21 @@ Description: bhinsta
 Author: BandarHelal - Nasser
 Name: BHinsta
 
+Package: com.bandarhl.bhinsta
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: BandarHelal
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debian_file/com.bandarhl.bhinsta_1.0.3_iphoneos-arm.deb
+Size: 163012
+MD5sum: 055938344fc901d744adf603679b65b1
+SHA1: aba95d620e7211cb5496d8ffe337de55be45b60a
+SHA256: 37852fcfc67f7efb8bd1efe27bb4833566ca097d6367c07a4865b9ff326cbc0c
+Section: Tweaks
+Description: bhinsta
+Author: BandarHelal - Nasser
+Name: BHinsta
+
 Package: com.rivesDev.A-Font.rootless
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -169,3 +184,18 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 1.0
+
+Package: com.rivesdev.snapper3.rootless
+Maintainer: Rives - X:_juz4
+Name: Snapper 3
+Filename: ./debian_file/com.rivesdev.snapper3.rootless_1.0k_iphoneos-arm64.deb
+Size: 933728
+MD5sum: 73092f7389bc3b018ad4644ce498578f
+SHA1: a96533711dfa60ba71c7166b8aaf78d6a1ebfbb7
+SHA256: 7173e3f884bbb870a6a9712a7b52512fcbb778ec45396a2d9a567d4f2594cf8d
+Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
+Description: اداة Snapper 3 مكركه
+Author: Jonathan
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0k
